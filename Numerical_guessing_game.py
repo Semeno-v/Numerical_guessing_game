@@ -1,9 +1,9 @@
 import random
 
 
+
 information = []
 numder_of_attempt = 0
-clear = lambda: os.system('cls')
 wallet = 0
 
 def numerical_guessing_game():           ## Новая игра
